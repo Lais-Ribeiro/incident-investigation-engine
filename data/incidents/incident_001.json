@@ -1,0 +1,11 @@
+{
+  "incident_id": "INC000001",
+  "opened_at": "2026-07-29T10:15:00",
+  "closed_at": "2026-07-29T10:30:00",
+  "application": "Customer API",
+  "category": "Disponibilidade",
+  "severity": "Crítica",
+  "environment": "Produção",
+  "status": "Aberto",
+  "description": "Aumento na taxa de erros HTTP 500 durante o processamento das requisições."
+}
